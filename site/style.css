@@ -1,3 +1,41 @@
 #header-nav {
-	background-color: #61122f;
+	background-color: white;
+}
+h1{
+	color: black;
+}
+body{
+	background-image: url("doctor.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.navbar-brand{
+    color: blue;
+    text-shadow: 1px 1px 1px;
+    font-weight: bolder;
+    font-size: 1.8em;
+}
+#main-content{
+	width:92%
+	margin-bottom: 30px;
+
+}
+#main-content h2{
+	background-color: white;
+	color: #008080;
+	text-shadow: 1px 1px 1px;
+    font-weight: bolder;
+    font-size: 1.8em;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+#services{
+	background-color: white;
+	color: #7d1913;
+	text-shadow: 1px 1px 1px;
+    font-size: 1.2em;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-bottom: 30px;
 }
